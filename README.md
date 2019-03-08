@@ -1,2 +1,2 @@
 # bash-script---simple-cipher
-basic substitution cipher for text using bash script on linux
+basic substitution cipher to encrypt or decrypt text using bash script on linux
